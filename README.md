@@ -1,6 +1,6 @@
 ### Hi there 👋 - I'm Michał Grzegorczyk
 
-I am a frontend developer. I’m working with technologies like JavaScript, Html, Css, Angular, Ngrx.
+I am a frontend developer. I’m working with technologies like JavaScript, Html, Css, Angular.
 
 #### My personal projects:
 - [CMS Blog](https://github.com/michalgrzegor/cms-blog) - This is a blog website and blog content management application. You can create, edit and delete posts. In the administration panel, you can generate tokens needed to register new authors. The application allows you to manage your profile.
