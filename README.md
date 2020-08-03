@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 - I'm Michał Grzegorczyk
+
+I am a frontend developer. I’m working with technologies like JavaScript, Html, Css, Angular, Ngrx.
+
+#### My personal projects:
+- [CMS Blog](https://github.com/michalgrzegor/cms-blog) - This application is used to manage blog content. You can create, edit and delete posts. In the administration panel, you can generate tokens needed to register new authors. The application allows you to manage your profile.
+- [Sport App](https://github.com/michalgrzegor/sport-app) - Application to create training and nutrition plans. Analysis of data collected from training. Creating a board with notes.
+
+#### To know me more:
+- [my website](https://michalgrzk.com/)
+- [linkedIn](https://www.linkedin.com/in/michalgrzk/)
 
 <!--
 **michalgrzegor/michalgrzegor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
