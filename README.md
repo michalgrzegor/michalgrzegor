@@ -4,8 +4,9 @@ I am a frontend developer. I’m working with technologies like JavaScript, Html
 
 #### My personal projects:
 - [Sport App](https://github.com/michalgrzegor/sport_app_refactored) - Application to create training and nutrition plans. Analysis of data collected from training. Creating a board with notes.  
-🔨: angular 10 | ngrx | OAuth 2.0 | date-fns.js | SASS | methodology BEM | RxJS
-- [CMS Blog](https://github.com/michalgrzegor/cms-blog-typescript) - This is a blog website and blog content management application. You can create, edit and delete posts. In the administration panel, you can generate tokens needed to register new authors. The application allows you to manage your profile.
+🔨 angular 10 | ngrx | OAuth 2.0 | date-fns.js | SASS | methodology BEM | RxJS
+- [CMS Blog](https://github.com/michalgrzegor/cms-blog-typescript) - This is a blog website and blog content management application. You can create, edit and delete posts. In the administration panel, you can generate tokens needed to register new authors. The application allows you to manage your profile.  
+🔨 Typescript | Webpack | Quill editor | OAuth 2.0 | Web Components | SASS
 
 
 #### To know me more:
